@@ -1,1 +1,9 @@
-someone might write docu someday.
+
+My cacti templates and scripts.  Use at your own risk, read the scripts
+and review the templates before using!
+
+I haven't tried to sanitize them.  Some are purely original works,
+others are derived from stuff that shipped with cacti or that I
+downloaded, but were bad enough that they had to get changed.
+
+
